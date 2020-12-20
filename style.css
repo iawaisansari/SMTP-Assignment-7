@@ -1,0 +1,282 @@
+.r1{
+    color: blue;
+    padding-top: 20px;
+}
+
+#logo{
+    padding-left: 15px;
+}
+
+h1{
+    font-family: serif;
+}
+
+h2{
+    font-family: serif;
+}
+
+h3{
+    font-family: serif;
+}
+
+h4{
+    font-family: sans-serif;
+}
+
+h5{
+    font-family: sans-serif;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+.profile{
+    text-align: center;
+    padding-top: 30px;
+}
+
+#idesign{
+    color: blue;
+    font-size: medium;
+}
+
+.hero{
+    padding-top: 50px;
+    align-items: center;
+    
+}
+
+.awais{
+    text-align: center;
+    background-color: blue;
+    height: 400px;
+    width: auto;
+    color: white;
+    padding-top: 50px;
+}
+
+.workcapabilities{
+    margin-top: -130px;
+}
+
+#designer{
+    background-color: white;
+    text-align: center;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    padding-top: 50px;
+}
+
+#frontend{
+    background-color: white;
+    text-align: center;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    padding-top: 50px;
+}
+
+#mentor{
+    background-color: white;
+    text-align: center;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    padding-top: 50px;
+}
+
+#recentwork{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#wdesign{
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+#glcsolution{
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+#coupal{
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+#welder{
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+#awg{
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+#chronicled{
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+#recentwork{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#wdesign{
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+#glcsolution{
+    border-radius: 10px;
+}
+
+#coupal{
+    border-radius: 10px;
+}
+
+#welder{
+    border-radius: 10px;
+}
+
+#awg{
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+#chronicled{
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.dribble{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.colaboration{
+    text-align: center;
+}
+
+.bluebackground2{
+    background-color: blue;
+    height: 400px;
+    width: auto;
+}
+
+.startupprojects{
+    padding-top: 100px;
+    text-align: center;
+    color: white;
+}
+
+.projects{
+    margin-top: -130px;
+}
+
+#projectbox1{
+    background-color: white;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 5px;
+}
+
+#projectbox2{
+    background-color: white;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 5px;
+}
+
+#projectbox3{
+    background-color: white;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 5px;
+}
+
+#projectbox4{
+    background-color: white;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+#projectbox5{
+    background-color: white;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+#projectbox6{
+    background-color: white;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+.conversation{
+    text-align: center;
+}
+
+#convbutton{
+    border: blue 2px solid;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.testimonials{
+    text-align: center;
+}
+
+#pascal{
+    height: 100px;
+    width: auto;
+}
+
+#pascalsaid{
+    font-size: x-large;
+}
+
+.doit{
+    background-color: rgb(32, 32, 58);
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#sproject{
+    padding-top: 10px;
+}
+
+#doit{
+    padding-top: 15px;
+    border: blue 2px solid;
+    border-radius: 50px;
+}
+
+.footer{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+#living{
+    font-size: large;
+}
+
+.copyright{
+    font-size: xx-small ;
+}
